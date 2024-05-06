@@ -43,7 +43,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 <!--idoc:ignore:start-->
 
 ## Contents
-
+Hi my name is KArthik Adharsh from NTU
 - [Awesome Mac](#awesome-mac)
 - [Contents](#contents)
 - [Reading and Writing Tools](#reading-and-writing-tools)
